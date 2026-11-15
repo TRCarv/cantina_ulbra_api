@@ -2,10 +2,6 @@
 
 API RESTful desenvolvida para o gerenciamento de produtos, pedidos e relatórios de vendas da cantina universitária do campus ULBRA. O sistema implementa controle transacional de estoque, integridade referencial e validações de regras de negócio.
 
-## Desenvolvido por
-
-- **Thiago Carvalho**
-
 ---
 
 ## Tecnologias Utilizadas
